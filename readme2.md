@@ -1,3 +1,6 @@
 #Prodal som ešte jeden MD file
 
-tento file je zbytocny
+az tak zbytocni nieje
+ * ano
+ * nie
+ * mozno
