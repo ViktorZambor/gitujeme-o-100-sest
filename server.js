@@ -1,1 +1,1 @@
-console.log("serving fish, warq")
+console.log("serving fish")
