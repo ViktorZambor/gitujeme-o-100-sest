@@ -1,2 +1,3 @@
-console.log("oh no");
-console.log("oh no")
+function loggedIn(){
+  return true;
+}
